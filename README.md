@@ -23,6 +23,11 @@ Abfragen, die in Stored Procedures umgewandelt werden beim MessegerModel:
 
 <img width="1552" alt="Bildschirmfoto 2025-01-10 um 15 48 38" src="https://github.com/user-attachments/assets/59e91bf5-45b2-4a73-86e7-8278efa5f653" />
 
+
+
+### **Verknüpfte Dateien**
+- [MessageModel.php](model/MessageModel.php)
+
 Danach auf Ok klicken 
 
 <img width="1552" alt="Bildschirmfoto 2025-01-10 um 15 52 39" src="https://github.com/user-attachments/assets/0d89d990-0849-4126-a0ac-22c2b065f0bf" />
