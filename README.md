@@ -14,3 +14,11 @@ Abfragen, die in Stored Procedures umgewandelt werden beim MessegerModel:
 ➔ Markiert Nachrichten als gelesen.
 **getUnreadMessagesWithSenders**
 ➔ Gibt ungelesene Nachrichten mit Absenderinformationen zurück.
+
+
+**Stored Procedures in phpMyAdmin anlegen**
+
+
+
+Kontakte abrufen – getAllContacts
+
