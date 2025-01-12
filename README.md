@@ -21,6 +21,7 @@ Abfragen, die in Stored Procedures umgewandelt werden beim MessegerModel:
 
 <img width="1552" alt="Bildschirmfoto 2025-01-10 um 14 43 09" src="https://github.com/user-attachments/assets/faeb1d4e-abc8-4f7e-93fb-4e8e901231fa" />
 
+getMessageBetween erstellen
 <img width="1552" alt="Bildschirmfoto 2025-01-10 um 15 48 38" src="https://github.com/user-attachments/assets/59e91bf5-45b2-4a73-86e7-8278efa5f653" />
 
 
