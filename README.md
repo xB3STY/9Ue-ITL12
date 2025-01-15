@@ -2,17 +2,29 @@
 **Name**: Basty Asumadu - **Übungstag**: 10.01.2025 - **Klasse**: 3aAPC - **Gruppe**: A - **Lehrgang**: 2
 
 Abfragen, die in Stored Procedures umgewandelt werden beim MessegerModel:
+
 **getAllContacts**
+
 ➔ Gibt alle Benutzer außer dem aktuellen Benutzer zurück.
+
 **getMessagesBetween**
+
 ➔ Gibt alle Nachrichten zwischen zwei Benutzern zurück.
+
 **sendMessage**
+
 ➔ Fügt eine neue Nachricht ein.
+
 **getUnreadMessagesCount**
+
 ➔ Gibt die Anzahl ungelesener Nachrichten zurück.
+
 **markMessagesAsRead**
+
 ➔ Markiert Nachrichten als gelesen.
+
 **getUnreadMessagesWithSenders**
+
 ➔ Gibt ungelesene Nachrichten mit Absenderinformationen zurück.
 
 
@@ -32,6 +44,10 @@ getMessageBetween erstellen
 Danach auf Ok klicken 
 
 <img width="1552" alt="Bildschirmfoto 2025-01-10 um 15 52 39" src="https://github.com/user-attachments/assets/0d89d990-0849-4126-a0ac-22c2b065f0bf" />
+
+
+Und hier geht es noch ganz normal der Chat
+<img width="1552" alt="Bildschirmfoto 2025-01-09 um 10 25 08" src="https://github.com/user-attachments/assets/26ef871f-c2fe-4dd6-b1f9-8e5f7d8c4d6b" />
 
 
 
